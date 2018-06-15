@@ -1,0 +1,7 @@
+---
+template: file://mytest2.json
+stack-name: myfirststack
+user-defined:
+  - Env
+  - App
+  
